@@ -33,7 +33,7 @@ Interactive dashboard comparing hallucination rates across models and languages 
 ---
 
 ### 🌍 Languages
-- 🇺🇸 English — C1 Fluent  
+- 🇺🇸 English — Intermediate
 - 🇧🇷🇵🇹 Portuguese — Native (Brazil & Portugal)
 
 ---
