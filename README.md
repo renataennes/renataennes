@@ -1,6 +1,6 @@
 ## Hi, I'm Renata 👋
 
-**AI Model Evaluator | Data Analyst | Bilingual EN/PT 🇧🇷🇵🇹**
+**AI Evaluation Specialist |  Bilingual EN/PT 🇧🇷🇵🇹**| Data Analyst**
 
 Based in Lisbon, Portugal. I evaluate and improve LLM outputs — 
 detecting hallucinations, designing annotation rubrics, 
@@ -19,7 +19,7 @@ and building bilingual EN/PT evaluation datasets.
 
 ---
 
-### 🚀 Featured Projects
+### 🧠 AI Evaluation Portfolio
 
 🔍 **[RAG Hallucination Detector](https://github.com/renataennes/rag-hallucination-detector)**  
 End-to-end RAG pipeline with automated hallucination detection. Bilingual EN/PT golden dataset. RAGAS metrics.
