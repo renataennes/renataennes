@@ -3,6 +3,7 @@
 **Manual QA Engineer | Quality Specialist | AI Quality Evaluation | Data Analytics**
 
 Based in Portugal 🇵🇹
+
 I'm passionate about software quality, structured testing, and process documentation. My background combines Manual QA, AI quality evaluation, and data analysis, allowing me to approach software testing with strong analytical thinking and attention to detail.
 Currently, I'm expanding my Manual QA portfolio by documenting complete Software Testing Life Cycle (STLC) projects, including requirement analysis, test planning, execution, defect reporting, and traceability.
 
