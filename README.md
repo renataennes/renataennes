@@ -1,40 +1,112 @@
-## Hi, I'm Renata 👋
+## Hello, I'm Renata 👋
 
-**AI Evaluation Specialist |  Bilingual EN/PT 🇧🇷🇵🇹**| Data Analyst**
+# Hi, I'm Renata 👋
 
-Based in Lisbon, Portugal. I evaluate and improve LLM outputs — 
-detecting hallucinations, designing annotation rubrics, 
-and building bilingual EN/PT evaluation datasets.
+**Manual QA Engineer | Quality Specialist | AI Quality Evaluation | Data Analytics**
 
----
-
-
-## 🧠 AI Evaluation Portfolio
-
-| Projecto | Stack | Highlight |
-|----------|-------|-----------|
-| [RAG Hallucination Detector](https://github.com/renataennes/rag-hallucination-detector) | LangChain · FAISS · RAGAS · Groq | κ = 1.0 humano vs. LLM-as-a-Judge |
-| [LLM Annotation Testset](https://github.com/renataennes/llm-annotation-testset) | pandas · sklearn · HuggingFace | κ = 0.92 bilíngue EN/PT |
-| [LLM Eval Dashboard](https://github.com/renataennes/llm-eval-dashboard) | Streamlit · Plotly | 🔗 [Live Demo](https://llm-eval-dashboard-4c5ztls4equwaqjbnu9rsu.streamlit.app/) |
+Based in Portugal 🇵🇹
+I'm passionate about software quality, structured testing, and process documentation. My background combines Manual QA, AI quality evaluation, and data analysis, allowing me to approach software testing with strong analytical thinking and attention to detail.
+Currently, I'm expanding my Manual QA portfolio by documenting complete Software Testing Life Cycle (STLC) projects, including requirement analysis, test planning, execution, defect reporting, and traceability.
 
 ---
 
-## 🔧 Technical Stack
+# ⭐ Featured QA Portfolio
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+## GreenKart Manual QA Project
+
+Complete Manual QA project covering the entire Software Testing Life Cycle (STLC).
+
+### Highlights
+
+- Requirements Analysis
+- User Stories
+- Acceptance Criteria
+- Test Strategy
+- Test Plan
+- Manual Test Cases
+- Requirement Traceability Matrix (RTM)
+- Smoke Testing
+- Regression Testing
+- Bug Reports
+- Test Summary Report
+
+**Repository**
+
+👉 GreenKart Manual QA Portfolio
 
 ---
 
-## 📊 What I work with:
+# 🤖 AI & LLM Quality Portfolio
 
-- **Hallucination detection** — RAG pipelines with RAGAS and LLM-as-a-Judge
-- **Bilingual annotation** — EN/PT datasets with inter-annotator agreement
-- **Bias analysis** — Empirical mapping of biases in automated evaluation
-- **Red teaming** — structured safety assessment in LLMs
+Project | Focus
+---|---
+LLM Evaluation Dashboard | Response evaluation
+RAG Hallucination Detector | Hallucination detection
+Bilingual Annotation Dataset | EN/PT Quality Evaluation
+
+Main topics:
+
+- LLM Evaluation
+- Hallucination Detection
+- RLHF
+- Prompt Evaluation
+- Bilingual Annotation
+- Dataset Quality
+- RAG Evaluation
+
+---
+
+# 📊 Data Analytics Portfolio
+
+Projects involving:
+
+- Power BI Dashboards
+- SQL
+- Python
+- Data Cleaning
+- KPI Reporting
+- Exploratory Data Analysis
+
+---
+
+# 🛠 Tech Stack
+
+### QA
+
+- Manual Testing
+- Test Planning
+- Test Case Design
+- Bug Reporting
+- Regression Testing
+- Smoke Testing
+- Agile
+- Jira
+- Git
+- GitHub
+
+### AI
+
+- Python
+- Hugging Face
+- Streamlit
+
+
+### Data
+
+- SQL 
+- Power BI
+- Pandas
+- Excel
+
+---
+
+# Currently Learning
+
+- Manual QA
+- API Testing
+- Postman
+- Jira
+- Agile Testing
 
 ---
 
