@@ -1,7 +1,5 @@
 ## Hello, I'm Renata 👋
 
-# Hi, I'm Renata 👋
-
 **Manual QA Engineer | Quality Specialist | AI Quality Evaluation | Data Analytics**
 
 Based in Portugal 🇵🇹
